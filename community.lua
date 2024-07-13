@@ -12,6 +12,9 @@ return {
   { import = "astrocommunity.pack.prisma" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.cpp" },
-  -- { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme.oxocarbon-nvim" },
+  { import = "astrocommunity.indent.indent-blankline-nvim" },
+  { import = "astrocommunity.pack.typescript" },
   -- import/override with your plugins folder
 }
